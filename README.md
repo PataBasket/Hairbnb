@@ -150,8 +150,6 @@ docker-compose down --volumes --rmi all --remove-orphans
 MIT License（自由に使って OK！）
 
 ---
-
-この環境で Sinatra の学習や開発がもっと楽しくなりますように ✨
 =======
 # Hairbnb
 imitating the famous hotel booking website for Ruby practice
