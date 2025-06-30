@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Sinatra 基礎環境（Docker 版）
 
 このプロジェクトは、**Ruby + Sinatra + PostgreSQL** を使った Web アプリの基本環境です。
@@ -151,3 +152,7 @@ MIT License（自由に使って OK！）
 ---
 
 この環境で Sinatra の学習や開発がもっと楽しくなりますように ✨
+=======
+# Hairbnb
+imitating the famous hotel booking website for Ruby practice
+>>>>>>> ada4996d95d972befc33439ebfcb26f932d4fec1
