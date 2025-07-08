@@ -9,6 +9,6 @@ set :views, File.join(settings.root, 'views')
 set :bind, '0.0.0.0'
 set :port, 4567
 
-get '/' do
- erb :index
+get '/*' do
+  send_file File.join(settings.public_folder, 'html/index.html')
 end
